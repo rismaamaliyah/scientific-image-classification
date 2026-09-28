@@ -1,0 +1,11 @@
+kaggle
+sckit-learn
+split-folders
+tensorflow==2.15.0
+numpy
+pandas
+matplotlib
+seaborn
+tensorflowjs
+opencv-python
+Pillow
